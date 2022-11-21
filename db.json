@@ -1,0 +1,11 @@
+{
+  "expenses": [
+    {
+      "id": "fcd52673-2a02-4ad0-85c1-e71e1475333b",
+      "name": "AAchar",
+      "by": "Dimple",
+      "date": "2022-07-27",
+      "cost": 20
+    }
+  ]
+}
